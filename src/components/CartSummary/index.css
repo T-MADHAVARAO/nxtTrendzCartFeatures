@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.totalTag {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.tag {
+  background-color: greenyellow;
+  color: gray;
+  border-radius: 10px;
+  padding: 10px;
+}
